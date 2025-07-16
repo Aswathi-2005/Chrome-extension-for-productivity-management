@@ -1,4 +1,4 @@
-# Chrome-extension-for-productivity-management
+# CHROME EXTENSION FOR PRODUCTIVITY MANAGEMENT
 
 *COMPANY* :CODTECH IT SOLUTIONS
 
@@ -16,3 +16,6 @@ Developing a Chrome extension for productivity management is a fascinating proje
 
 # OUTPUT :
 
+<img width="1919" height="959" alt="Image" src="https://github.com/user-attachments/assets/cf266775-a340-4f64-bb21-c7b7c1d9e1b2" />
+<img width="1904" height="992" alt="Image" src="https://github.com/user-attachments/assets/0cf33fbe-d3b9-4520-a931-e9ba535b0559" />
+<img width="1919" height="798" alt="Image" src="https://github.com/user-attachments/assets/a8bdfc56-4da2-47e7-80e0-f2361c612429" />
